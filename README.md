@@ -6,12 +6,12 @@
 - [Package requirement](#package-requirement)
 - [Installation environment](#installation-environment)
 - [Model training and testing](#model-training-and-testing)
-  - [a. Cohort-wise 5-fold split](#a. Cohort-wise 5-fold split)
-  - [b. Centralized 5-fold split](#b. Centralized 5-fold split)
-  - [c. FedMbio Model Training and Evaluation](#c. FedMbio Model Training and Evaluation)
-  - [d. Benchmark: Local Training and Evaluation per Institution](#d. Benchmark: Local Training and Evaluation per Institution)
-  - [e. Benchmark: Centralized Training and Evaluation](#e. Benchmark: Centralized Training and Evaluation)
-- [Example](#Example)   
+  - [a. Cohort-wise 5-fold split](#a-cohort-wise-5-fold-split)
+  - [b. Centralized 5-fold split](#b-centralized-5-fold-split)
+  - [c. FedMbio Model Training and Evaluation](#c-fedmbio-model-training-and-evaluation)
+  - [d. Benchmark: Local Training and Evaluation per Institution](#d-benchmark-local-training-and-evaluation-per-institution)
+  - [e. Benchmark: Centralized Training and Evaluation](#e-benchmark-centralized-training-and-evaluation)
+- [Example](#example) 
 
 ## Introduction
 
