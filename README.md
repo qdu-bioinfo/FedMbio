@@ -111,3 +111,8 @@ python TestFedMbio.py --data_type 16s --groups CTR_CRC --num_clients 6 --model_d
 python TestFedMbio.py --data_type 16s --groups CTR_ADA --num_clients 5 --model_dir "Models/16s/CTRADA"
 ```
 
+## Pretrained models
+
+The pretrained FedMbio models are distributed through GitHub Releases because of their large file sizes.
+
+Detailed download instructions and the required model directory structure are provided in [`Models/README.md`](Models/README.md).
