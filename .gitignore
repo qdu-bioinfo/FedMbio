@@ -1,1 +1,2 @@
 Models/**/*.pt
+!Models/16s/CTRADA/*.pt

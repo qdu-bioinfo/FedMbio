@@ -1,3 +1,4 @@
 BaselineDir/Distance/distance_matrix/16s/distance_matrix.csv filter=lfs diff=lfs merge=lfs -text
 BaselineDir/Distance/distance_matrix/wgs/distance_matrix.csv filter=lfs diff=lfs merge=lfs -text
 BaselineDir/Distance/NWK/16s/phylogeny-align.fasta.new filter=lfs diff=lfs merge=lfs -text
+Models/16s/CTRADA/*.pt filter=lfs diff=lfs merge=lfs -text
