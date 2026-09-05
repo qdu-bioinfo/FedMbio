@@ -1,4 +1,2 @@
 BaselineDir/Distance/NWK/16s/phylogeny-align.fasta.new
-BaselineDir/Distance/distance_matrix/16s/distance_matrix.csv
-BaselineDir/Distance/distance_matrix/wgs/distance_matrix.csv
 Models/**/*.pt
